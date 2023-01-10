@@ -1,0 +1,4 @@
+services:
+  sitelocation.time:
+    class: Drupal\site_location\Current_time
+    arguments: ['@date.formatter']

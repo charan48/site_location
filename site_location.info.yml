@@ -1,0 +1,7 @@
+name: 'Site Location'
+type: module
+description: 'To display site location'
+core_version_requirement: ^9
+package: 'Custom'
+dependencies:
+  -drupal: block
